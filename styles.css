@@ -35,7 +35,7 @@ body{
 }
 
 .card__image{
-    background-image: url('/images/image-product-desktop.jpg');
+    background-image: url('./images/image-product-desktop.jpg');
     background-size: cover;
     width: 50%;
     height: 100%;
@@ -121,7 +121,7 @@ body{
 
 
     .card__image{
-        background-image: url('/images/image-product-mobile.jpg');
+        background-image: url('./images/image-product-mobile.jpg');
         background-size: cover;
         background-position: top center;
         width: 100%;
