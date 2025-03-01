@@ -17,7 +17,7 @@
 
 body{
     width: 100vw;
-    height: 610px;
+    height: 100vh;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     background-color: var(--Cream);
@@ -108,7 +108,7 @@ body{
 
 @media(max-width: 645px) {
     body{
-        height: auto;
+        height: 700px;
     }
 
     .card{
